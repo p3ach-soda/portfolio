@@ -1,11 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
 
-/*
-	Lens by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -179,7 +174,7 @@ input, select, textarea {
 		font-weight: 400;
 		line-height: 1.25;
 		margin: 0 0 0.5em 0;
-		color: #555;
+		color: #aaa;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -837,7 +832,7 @@ input, select, textarea {
 		top: 0;
 		width: 22.5em;
 		height: 100%;
-		background: #fff;
+		background: #333;
 		outline: 0;
 		overflow-x: hidden;
 		overflow-y: auto;
@@ -888,7 +883,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#main {
-				background: rgba(255, 255, 255, 0.925);
+				background: #333;
 			}
 
 				#main .toggle {
@@ -905,7 +900,7 @@ input, select, textarea {
 				-ms-transition: opacity 0.5s ease, visibility 0.5s;
 				transition: opacity 0.5s ease, visibility 0.5s;
 				width: 100%;
-				background: #fff;
+				background: #333;
 				text-align: center;
 			}
 
@@ -929,7 +924,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 3em 2.25em 1.75em 2.25em ;
+		padding: 1em 2.25em 1.75em 2.25em ;
 	}
 
 		#header h1 {
