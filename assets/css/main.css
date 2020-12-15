@@ -131,7 +131,7 @@ input, select, textarea {
 
 	body {
 		background-color: #fff;
-		color: #aaa;
+		color: #333;
 	}
 
 	body, input, select, textarea {
@@ -139,7 +139,7 @@ input, select, textarea {
 		font-weight: 400;
 		line-height: 1.65;
 		font-size: 1em;
-		color: #aaa;
+		color: #333;
 	}
 
 	a {
@@ -174,7 +174,7 @@ input, select, textarea {
 		font-weight: 400;
 		line-height: 1.25;
 		margin: 0 0 0.5em 0;
-		color: #aaa;
+		color: #333;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -832,7 +832,7 @@ input, select, textarea {
 		top: 0;
 		width: 22.5em;
 		height: 100%;
-		background: #333;
+		background: #ffade5;
 		outline: 0;
 		overflow-x: hidden;
 		overflow-y: auto;
@@ -883,7 +883,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#main {
-				background: #333;
+				background: #ffade5;
 			}
 
 				#main .toggle {
@@ -900,7 +900,7 @@ input, select, textarea {
 				-ms-transition: opacity 0.5s ease, visibility 0.5s;
 				transition: opacity 0.5s ease, visibility 0.5s;
 				width: 100%;
-				background: #333;
+				background: #ffade5;
 				text-align: center;
 			}
 
